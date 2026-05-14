@@ -1,0 +1,6 @@
+[2026-05-12 09:07:12] DEBUG org.example.logger.LoggerUtility - This is debug
+[2026-05-12 09:07:12] INFO  org.example.logger.LoggerUtility - This is info
+[2026-05-12 09:07:12] DEBUG org.example.logger.LoggerUtility - This is debug
+[2026-05-12 09:07:12] ERROR org.example.logger.LoggerUtility - This is error
+[2026-05-12 09:07:12] INFO  org.example.anotherlogger.ExampleLogger - This is info
+[2026-05-12 09:07:12] ERROR org.example.anotherlogger.ExampleLogger - This is error
