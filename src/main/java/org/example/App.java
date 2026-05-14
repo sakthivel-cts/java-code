@@ -49,9 +49,9 @@ public class App
 //
 //        System.out.println(bank.balance());
 
-        User user = new UserBuilder()
-                .setName("Sakthivel")
-                .setAge(21)
-                .build();
+//        User user = new UserBuilder()
+//                .setName("Sakthivel")
+//                .setAge(21)
+//                .build();
     }
 }
