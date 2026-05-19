@@ -1,22 +1,11 @@
 package org.example;
 
-import org.example.anotherlogger.ExampleLogger;
-import org.example.creationaldesignpatterns.*;
-import org.example.logger.LoggerUtility;
-import org.example.model.User;
-import org.example.repository.DBConnection;
-import org.example.repository.UserRepository;
-import org.example.utility.DisplayMethods;
-
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.util.Scanner;
-
 public class App
 {
     public static void main( String[] args )
     {
-        Scanner sc = new Scanner(System.in);
+
+//        Scanner sc = new Scanner(System.in);
 //        LoggerUtility loggerUtility = new LoggerUtility();
 //        loggerUtility.logFunction();
 //        ExampleLogger exampleLogger = new ExampleLogger();
